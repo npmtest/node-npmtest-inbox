@@ -8,7 +8,7 @@
 <tspan x="10" y="90">  ├─┬ mimelib@0.3.0 </tspan>
 <tspan x="10" y="106">  │ ├── addressparser@1.0.1 </tspan>
 <tspan x="10" y="122">  │ └─┬ encoding@0.1.12 </tspan>
-<tspan x="10" y="138">  │   └── iconv-lite@0.4.15 </tspan>
+<tspan x="10" y="138">  │   └── iconv-lite@0.4.16 </tspan>
 <tspan x="10" y="154">  ├─┬ utf7@1.0.2 </tspan>
 <tspan x="10" y="170">  │ └── semver@5.3.0 </tspan>
 <tspan x="10" y="186">  └── xoauth2@1.2.0</tspan>
