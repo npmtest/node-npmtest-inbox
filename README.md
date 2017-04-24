@@ -1,8 +1,8 @@
 # npmtest-inbox
 
-test coverage for  [inbox (v1.1.59)](https://github.com/andris9/inbox)  [![npm package](https://img.shields.io/npm/v/npmtest-inbox.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-inbox) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-inbox.svg)](https://travis-ci.org/npmtest/node-npmtest-inbox)
+#### basic test coverage for  [inbox (v1.1.59)](https://github.com/andris9/inbox)  [![npm package](https://img.shields.io/npm/v/npmtest-inbox.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-inbox) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-inbox.svg)](https://travis-ci.org/npmtest/node-npmtest-inbox)
 
-This is a work in progress IMAP client for node.js.
+#### This is a work in progress IMAP client for node.js.
 
 [![NPM](https://nodei.co/npm/inbox.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/inbox)
 
@@ -10,7 +10,7 @@ This is a work in progress IMAP client for node.js.
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-inbox/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-inbox/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-inbox/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-inbox/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-inbox/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-inbox/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-inbox/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-inbox/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-inbox/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-inbox/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-inbox/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-inbox/build/coverage.html/index.html)
 
@@ -77,7 +77,8 @@ This is a work in progress IMAP client for node.js.
     "scripts": {
         "test": "nodeunit test"
     },
-    "version": "1.1.59"
+    "version": "1.1.59",
+    "bin": {}
 }
 ```
 
